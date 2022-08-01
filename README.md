@@ -83,7 +83,7 @@
    ![image](https://user-images.githubusercontent.com/89054626/182071992-06132b32-f15b-4f19-882a-0ea358e3cb29.png)
        
    
-  ### Por isso o modelo adotado foi : Modelo LogisticRegression 
+  ### Por isso o modelo adotado foi : Modelo LogisticRegression que apresentou uma acurácidade de 62%. 
   
   
   
