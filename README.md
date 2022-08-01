@@ -41,7 +41,7 @@
             - Essas features serão utilizadas para desenvolver nosso modelo.              
                      
  ## 3- Modelagem
-          Para contrução do nosso modelo foram feitas as seguintes etapas:
+          Para construção do nosso modelo foram feitas as seguintes etapas:
              - As features que não foram apresentadas no gráfico anterior fora excluidas da base.
              - A ultima coluna foi removida da base e transformada em nossa labels.
              - Os valores da tabela feature, formada pelas feature restantes, foram normalizados.
